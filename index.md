@@ -23,10 +23,8 @@ sections:
     background_style: style1
     component: intro.html
     section_id: intro
-    subtitle: |-
-      Cras aliquam amet adipiscing nibh faucibus suscipit ut Parturient  
-      col accumsan est arcu donec sed Eleifend Integer.
-    title: Sebastian Martin | Webentwicklung // IT Consulting // Trainings
+    subtitle: '##  Webentwicklung // IT Consulting // Trainings'
+    title: Sebastian Martin
     type: intro
   - background_style: style2
     component: spotlights.html
